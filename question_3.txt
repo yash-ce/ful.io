@@ -1,0 +1,10 @@
+1. Reverse-i-search is a feature in a Linux terminal that allows users to search for and recall 
+previously executed commands by typing a few characters.
+
+2. You can list hidden directories in the Linux command line using the ls command with 
+the -a or -A option: ls -a or ls -A.
+
+3. Yes, I have experience with working on systems using Putty, which is a popular SSH client for 
+Windows that allows you to connect to remote Linux-based servers.
+
+4. No.
